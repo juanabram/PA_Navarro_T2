@@ -1,0 +1,8 @@
+[package]
+name = "RustCode"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fltk = { version = "^1.4", features = ["fltk-bundled"] }
+rand = "0.8"
