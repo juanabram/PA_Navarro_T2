@@ -1,0 +1,14 @@
+C:\Users\Juan\Documents\Materias\PA\tarea_pa_Avanzada_RELOG\CSharpcode\obj\Debug\net8.0-windows\CSharpcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Documents\Materias\PA\tarea_pa_Avanzada_RELOG\CSharpcode\obj\Debug\net8.0-windows\CSharpcode.AssemblyInfoInputs.cache
+C:\Users\Juan\Documents\Materias\PA\tarea_pa_Avanzada_RELOG\CSharpcode\obj\Debug\net8.0-windows\CSharpcode.AssemblyInfo.cs
+C:\Users\Juan\Documents\Materias\PA\tarea_pa_Avanzada_RELOG\CSharpcode\obj\Debug\net8.0-windows\CSharpcode.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\Materias\PA\tarea_pa_Avanzada_RELOG\CSharpcode\bin\Debug\net8.0-windows\CSharpcode.exe
+C:\Users\Juan\Documents\Materias\PA\tarea_pa_Avanzada_RELOG\CSharpcode\bin\Debug\net8.0-windows\CSharpcode.deps.json
+C:\Users\Juan\Documents\Materias\PA\tarea_pa_Avanzada_RELOG\CSharpcode\bin\Debug\net8.0-windows\CSharpcode.runtimeconfig.json
+C:\Users\Juan\Documents\Materias\PA\tarea_pa_Avanzada_RELOG\CSharpcode\bin\Debug\net8.0-windows\CSharpcode.dll
+C:\Users\Juan\Documents\Materias\PA\tarea_pa_Avanzada_RELOG\CSharpcode\bin\Debug\net8.0-windows\CSharpcode.pdb
+C:\Users\Juan\Documents\Materias\PA\tarea_pa_Avanzada_RELOG\CSharpcode\obj\Debug\net8.0-windows\CSharpcode.dll
+C:\Users\Juan\Documents\Materias\PA\tarea_pa_Avanzada_RELOG\CSharpcode\obj\Debug\net8.0-windows\refint\CSharpcode.dll
+C:\Users\Juan\Documents\Materias\PA\tarea_pa_Avanzada_RELOG\CSharpcode\obj\Debug\net8.0-windows\CSharpcode.pdb
+C:\Users\Juan\Documents\Materias\PA\tarea_pa_Avanzada_RELOG\CSharpcode\obj\Debug\net8.0-windows\CSharpcode.genruntimeconfig.cache
+C:\Users\Juan\Documents\Materias\PA\tarea_pa_Avanzada_RELOG\CSharpcode\obj\Debug\net8.0-windows\ref\CSharpcode.dll

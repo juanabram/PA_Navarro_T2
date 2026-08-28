@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <!-- Esto le dice al compilador que use nuestra clase 'ejecutar' como arranque -->
+    <StartupObject>CSharpcode.Stopwatch</StartupObject> 
+  </PropertyGroup>
+
+</Project>
