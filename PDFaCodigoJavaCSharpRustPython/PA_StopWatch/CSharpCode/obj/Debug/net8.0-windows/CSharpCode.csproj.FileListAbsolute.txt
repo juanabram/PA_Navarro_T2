@@ -1,0 +1,14 @@
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\CSharpCode\bin\Debug\net8.0-windows\CSharpCode.exe
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\CSharpCode\bin\Debug\net8.0-windows\CSharpCode.deps.json
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\CSharpCode\bin\Debug\net8.0-windows\CSharpCode.runtimeconfig.json
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\CSharpCode\bin\Debug\net8.0-windows\CSharpCode.dll
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\CSharpCode\bin\Debug\net8.0-windows\CSharpCode.pdb
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\CSharpCode\obj\Debug\net8.0-windows\CSharpCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\CSharpCode\obj\Debug\net8.0-windows\CSharpCode.AssemblyInfoInputs.cache
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\CSharpCode\obj\Debug\net8.0-windows\CSharpCode.AssemblyInfo.cs
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\CSharpCode\obj\Debug\net8.0-windows\CSharpCode.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\CSharpCode\obj\Debug\net8.0-windows\CSharpCode.dll
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\CSharpCode\obj\Debug\net8.0-windows\refint\CSharpCode.dll
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\CSharpCode\obj\Debug\net8.0-windows\CSharpCode.pdb
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\CSharpCode\obj\Debug\net8.0-windows\CSharpCode.genruntimeconfig.cache
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\CSharpCode\obj\Debug\net8.0-windows\ref\CSharpCode.dll

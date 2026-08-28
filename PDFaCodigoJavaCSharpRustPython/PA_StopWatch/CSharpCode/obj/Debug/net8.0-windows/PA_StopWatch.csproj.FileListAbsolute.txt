@@ -1,0 +1,14 @@
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\PA_StopWatch\bin\Debug\net8.0-windows\PA_StopWatch.exe
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\PA_StopWatch\bin\Debug\net8.0-windows\PA_StopWatch.deps.json
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\PA_StopWatch\bin\Debug\net8.0-windows\PA_StopWatch.runtimeconfig.json
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\PA_StopWatch\bin\Debug\net8.0-windows\PA_StopWatch.dll
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\PA_StopWatch\bin\Debug\net8.0-windows\PA_StopWatch.pdb
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\PA_StopWatch\obj\Debug\net8.0-windows\PA_StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\PA_StopWatch\obj\Debug\net8.0-windows\PA_StopWatch.AssemblyInfoInputs.cache
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\PA_StopWatch\obj\Debug\net8.0-windows\PA_StopWatch.AssemblyInfo.cs
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\PA_StopWatch\obj\Debug\net8.0-windows\PA_StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\PA_StopWatch\obj\Debug\net8.0-windows\PA_StopWatch.dll
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\PA_StopWatch\obj\Debug\net8.0-windows\refint\PA_StopWatch.dll
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\PA_StopWatch\obj\Debug\net8.0-windows\PA_StopWatch.pdb
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\PA_StopWatch\obj\Debug\net8.0-windows\PA_StopWatch.genruntimeconfig.cache
+C:\Users\Juan\Documents\Materias\PA\PA_StopWatch\PA_StopWatch\obj\Debug\net8.0-windows\ref\PA_StopWatch.dll
