@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.TitledPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<TitledPane fx:id="tpane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="647.0" prefWidth="418.0" text="Exam" xmlns="http://javafx.com/javafx/26" xmlns:fx="http://javafx.com/fxml/1" fx:controller="choiceexam.ChoiceExamController">
+   <content>
+      <BorderPane fx:id="bpane" prefHeight="594.0" prefWidth="392.0">
+         <top>
+            <MenuBar fx:id="toppane" prefHeight="26.0" prefWidth="383.0" BorderPane.alignment="CENTER">
+              <menus>
+                <Menu fx:id="mfile" mnemonicParsing="false" text="File">
+                  <items>
+                    <MenuItem fx:id="miclose" mnemonicParsing="false" onAction="#onCerrar" text="Close" />
+                  </items>
+                </Menu>
+                <Menu fx:id="mhelp" mnemonicParsing="false" text="Help">
+                  <items>
+                    <MenuItem fx:id="miabout" mnemonicParsing="false" onAction="#onAcercaDe" text="About" />
+                  </items>
+                </Menu>
+              </menus>
+            </MenuBar>
+         </top>
+         <center>
+            <VBox prefHeight="548.0" prefWidth="358.0" BorderPane.alignment="CENTER">
+               <children>
+                  <Label fx:id="lcountry" prefHeight="30.0" prefWidth="358.0" text="Country">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lpais" alignment="CENTER" prefHeight="37.0" prefWidth="422.0" style="-fx-border-color: #000000;" />
+                  <Label fx:id="lcapital" prefHeight="43.0" prefWidth="54.0" text="Capital">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </Label>
+                  <StackPane fx:id="stackpane" prefHeight="65.0" prefWidth="358.0">
+                     <children>
+                        <Label fx:id="ltexto" text="Label" />
+                        <TextField fx:id="tftexto" prefHeight="40.0" prefWidth="358.0" style="-fx-border-color: #000000;" />
+                     </children>
+                  </StackPane>
+                  <Label fx:id="lopcion1" prefHeight="37.0" prefWidth="407.0" style="-fx-border-color: #000000;" text="Label" onMouseClicked="#onOpcionElegida" />
+                  <Label fx:id="lopcion2" prefHeight="37.0" prefWidth="416.0" style="-fx-border-color: #000000;" text="Label" onMouseClicked="#onOpcionElegida" />
+                  <Label fx:id="loption3" prefHeight="38.0" prefWidth="398.0" style="-fx-border-color: #000000;" text="Label" onMouseClicked="#onOpcionElegida" />
+                  <TextArea fx:id="tacorrect" prefHeight="250.0" prefWidth="398.0" editable="false" />
+                  <HBox fx:id="hbox" alignment="CENTER" prefHeight="30.0" prefWidth="398.0">
+                     <children>
+                        <Button fx:id="bnext" mnemonicParsing="false" onAction="#onSiguiente" text="Next">
+                           <font>
+                              <Font size="14.0" />
+                           </font>
+                        </Button>
+                        <Button fx:id="bstart" mnemonicParsing="false" onAction="#onIniciar" text="Start">
+                           <font>
+                              <Font size="14.0" />
+                           </font>
+                        </Button>
+                     </children>
+                     <opaqueInsets>
+                        <Insets />
+                     </opaqueInsets>
+                  </HBox>
+               </children>
+            </VBox>
+         </center>
+      </BorderPane>
+   </content>
+</TitledPane>
